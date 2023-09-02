@@ -1,0 +1,25 @@
+.main{
+    background-image:linear-gradient(rgb(0, 0, 0),rgba(0, 0, 0, 0),rgb(0, 0, 0)), url(./images/IN-en-20230828-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    height: 950px;
+    
+}
+.childs{
+    display: flex;
+    justify-content: space-between;
+    width: 70%  ;
+    margin: auto;
+    
+}
+.child1 img{
+    width: 20%;
+    padding-top: 5px;
+}
+.shadow{
+    background-color: rgba(0, 0, 0, 0.795);
+    /* border: 1px solid red; */
+    height: 700px;
+    width: 25%;
+    margin: auto;
+    padding: 10px;
+    
+}

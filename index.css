@@ -2,6 +2,7 @@
     background-image:linear-gradient(rgb(0, 0, 0),rgba(0, 0, 0, 0),rgb(0, 0, 0)), url(./images/IN-en-20230828-popsignuptwoweeks-perspective_alpha_website_large.jpg);
     height: 800px;
     
+    
 }
 .childs{
     display: flex;
@@ -79,6 +80,7 @@
 .signbtn{
 
     margin-top: 10px;
+    
 }
 .signbtn a:hover{
     background-color: brown;
@@ -123,5 +125,138 @@
     padding: 10px;
     
 }
+.tvdiv{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+  height: 500px;
+  width: 100%;
+  border: 10px solid rgb(69, 67, 65);
+  
+ 
+}
+/* .parag h1{
+    color: white;
 
+    padding: 170px;
+}
+.tv img{
+  width: 80%;
+}
+.parag p{
+    color: white;
+    padding-left: 150px;
+    
 
+} */
+.parag{
+    color: white;
+    padding: 120px;
+    margin-top: 40px;
+   
+}
+.tv img{
+    width: 77%;
+    margin-top: 30px;
+    
+  }
+.parag h1{
+   font-weight: 900;
+  padding-bottom: 20px;
+ 
+}
+.parag p{
+  font-size: 18px;
+
+}
+.tvdiv1{
+        display: flex;
+        background-color: black;
+        justify-content: space-between;
+      height: 470px;
+      width: 100%;
+     
+}
+.parag1{
+   color: white;
+   padding: 80px;
+   margin-top: 76px;
+}
+.parag1 h1{
+    font-weight: 900;
+    padding-bottom: 15px;
+}
+.parag1 p{
+    font-weight: 400;
+    font-size: 20px;
+}
+.tv1 img{
+    width: 85%;
+    margin-left: 100px;
+}
+.tvdiv2{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+  height: 500px;
+  width: 100%;
+  border: 10px solid rgb(69, 67, 65);
+}
+.parag2{
+    color: white;
+    padding: 120px;
+    margin-top: 40px;
+   
+}
+.tv2 img{
+    width: 77%;
+    margin-top: 30px;
+    
+  }
+.parag2 h1{
+   font-weight: 900;
+  padding-bottom: 20px;
+ 
+}
+.parag2 p{
+  font-size: 18px;
+  
+
+}
+.tvdiv3{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+  height: 500px;
+  width: 100%;
+ 
+}
+.parag3{
+    color: white;
+    padding: 120px;
+    margin-top: 40px;
+   
+}
+.tv3 img{
+    width: 100%;
+    margin-top: 80px;
+    margin-left: 79px;
+    
+    
+  }
+.parag3 h1{
+   font-weight: 900;
+  padding-bottom: 20px;
+  margin-left: 60px;
+ 
+}
+.parag3 p{
+  font-size: 18px;
+  margin-left: 60px;
+
+}
+.sellect{
+
+    background-color: rgb(49, 45, 45);
+    height: ;
+}

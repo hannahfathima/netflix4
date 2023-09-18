@@ -23,3 +23,90 @@
     padding: 10px;
     
 }
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;500&family=Kanit&display=swap');
+/* font-family: 'Kanit', sans-serif; */
+/* font-family: 'Kanit', sans-serif; */
+.header{
+    background-image:linear-gradient(rgb(0, 0, 0),rgba(0, 0, 0, 0.329),rgb(0, 0, 0)), url(./images/IN-en-20230828-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    height: 800px;
+  
+
+}
+.topbar{
+  display: flex;
+  justify-content: space-between;
+  width: 70%;
+  margin: auto;
+}
+.logo img{
+  width: 22%;
+  
+}
+
+.bg{
+  width: 30%;
+  height:400px ;
+  background-color:rgba(0, 0, 0, 0.738);
+  margin: auto;
+  margin-top: 2px;
+  color: white;
+  padding: 55px;
+  padding-left: 70px;
+  
+
+}
+.bg h4{
+  font-size: 33px;
+  font-weight: 700;
+}
+.bg input{
+  padding:  10px 90px 10px 20px;
+  text-align: center;
+  margin-top: 45px;
+  border-radius: 8px;
+  background-color: rgba(32, 28, 28, 0.819);
+  border: 1px solid rgba(32, 28, 28, 0.819);
+
+  
+}
+.Sign1 a{
+  border: 1px solid red;
+  background-color: red;
+  color: white;
+  text-decoration: none;
+  padding: 15px 111px;
+  border-radius: 8px;
+  margin-right: 140px;
+
+  
+}
+.Sign1{
+  margin-top: 50px;
+  text-align: center;
+ 
+}
+.rem{
+  margin-top: 30px;
+  font-size: 13px;
+  
+}
+.rem a{
+  float: right;
+ color: rgb(215, 214, 214);
+ text-decoration: none;
+}
+.Signfoot{
+  margin-top: 80px;
+  display: flex;
+  color: rgb(137, 136, 136);
+  font-weight: 500;
+}
+.Signfoot h6{
+  padding-left: 5px;
+  color: antiquewhite;
+}
+.Signfoot2{
+  margin-top: 15px;
+  font-weight: 400;
+  
+}

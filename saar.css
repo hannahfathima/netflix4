@@ -1,0 +1,119 @@
+.banner{
+    background-image:linear-gradient(rgb(0, 0, 0),rgba(0, 0, 0, 0.345),rgb(0, 0, 0)), url(./images/ocean-pollution-campaign-with-whale-swimming-with-plastic-bags-floating_53876-124604.avif);
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+   background-size: cover;
+ 
+  
+
+}
+.getstarted{
+    background-color: black;
+}
+
+
+/* ================================================================================= */
+.scroll{
+    display: flex;
+    gap: 5px;
+   
+    overflow-x: scroll;
+    overflow-y: hidden;
+    height: 300px;
+    align-items: center;
+    
+
+    
+    
+
+}
+scroll::-webkit-scrollbar{
+    display: none;
+    
+}
+.scroll img{
+    width: 400px;
+    height: 50%;
+    transition: .8s;
+    justify-content: center;
+    
+  
+}
+img:hover{
+    transform: scale(1.2);
+}
+
+.banner img{
+    background-size: cover;    
+}
+.banner h1{
+    color: white;
+    font-weight: 700;
+    font-style: inherit;
+}
+.parr{
+    width: 30%;
+}
+.banner p{
+  color: white;
+  font-weight: 100;
+}
+.butt1 a{
+    text-decoration: none;
+     border: 1px solid rgb(65, 65, 65);
+    background-color: rgba(12, 55, 76, 0.471);
+    color: white;
+    padding: 6px 30px 6px 20px;
+   border-radius: 3px;
+   margin: 2px 15px 10px 2px;
+   transition: .6s;
+   
+   
+   
+}
+/* .butt2 a{
+    text-decoration: none;
+    border: 1px solid white;
+   background-color: rgba(0, 0, 0, 0.659);
+   color: white;
+  padding: 5px;
+  border-radius: 3px;
+ 
+
+  padding: 5px 15px 5px 10px;
+} */
+.butt{
+    margin-top: 20px;
+   
+    
+}
+.banner{
+   padding-left: 100px;
+   padding: 60px;
+}
+.butt p{
+    margin-top: 20px;
+}
+.butt a:hover{
+    background-color: rgba(11, 5, 20, 0.266);
+    border: 1px solid rgb(75, 73, 73);
+    color: white;
+}
+
+.originals{
+    color: aliceblue;
+
+   
+    
+}
+.originals h2{
+ 
+    font-weight: 900;
+    font-size: 40PX;
+    padding-left: 40PX;
+}
+
+   
+
+ 
